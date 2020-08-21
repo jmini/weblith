@@ -10,6 +10,7 @@
 *~
 bin/
 target/
+storybook*
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
